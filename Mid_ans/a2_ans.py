@@ -12,5 +12,6 @@ if 0 <= score <= 100:
         rank = "D"
     else:
         rank = "F"
+    print(rank)
 else:
     print("Invalid input")
